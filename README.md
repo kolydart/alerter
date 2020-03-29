@@ -6,7 +6,7 @@
 
 alerter is a command-line tool to send Mac OS X User Alerts (Notifications),
 which are available in Mac OS X 10.8 and higher. (even catalina)
-the program ends when the alerter is activated or closed, writing a the activated value to output (stdout), or a json object to describe the alert event.
+the program ends when the alerter is activated or closed, writing the activated value to output (stdout), or a json object to describe the alert event.
 
 Alerts are OS X notifications that stay on screen unless dismissed.
 
